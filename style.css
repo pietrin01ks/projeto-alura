@@ -1,10 +1,11 @@
 body{
     color: rgb(254, 254, 254);
-    background-color: rgb(2, 2, 2);
+    background-color: rgb(88, 88, 88);
 }
 section{
-    background: rgb(104, 78, 148);
+    background: rgb(0, 0, 0);
     padding-bottom: 80px;
     padding-top: 80px;
-    
+    display: flex;
+    justify-content: center;
 }
